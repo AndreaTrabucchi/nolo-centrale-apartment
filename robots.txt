@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andreatrabucchi.github.io/nolo-centrale-apartment/sitemap.xml
